@@ -3,6 +3,7 @@
         <h1>👋 Hello, I'm Ilnaz</h1>
         <h3>📈 Frontend Developer (React)</h2>
         <p>Welcome to my GitHub profile README! Here you'll find information about my skills, projects, and contact details.</p>
+        <a href="https://mirkashev.github.io/portfolio-web/" target="_blank">My (in progress) web site</a>
     </div>
     <div>
         <h1>🔧 Skills</h2>
